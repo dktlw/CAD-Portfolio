@@ -96,3 +96,15 @@
   });requestAnimationFrame(frame);
  }requestAnimationFrame(frame);
 })();
+
+// Discourage casual media saving without interfering with text or navigation.
+(() => {
+ const isMedia = target => target instanceof Element && !!target.closest('img, video');
+ ['contextmenu', 'dragstart'].forEach(type => document.addEventListener(type, event => {
+  if (isMedia(event.target)) event.preventDefault();
+ }));
+ document.addEventListener('copy', event => {
+  const selection = window.getSelection();
+  if (isMedia(event.target) && (!selection || selection.isCollapsed)) event.preventDefault();
+ });
+})();

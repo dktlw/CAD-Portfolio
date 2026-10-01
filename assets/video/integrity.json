@@ -1,30 +1,9 @@
-[
-  {
-    "file": "GIF1.mp4",
-    "media_data_unchanged": true,
-    "media_data_sha256": "bcce33429d023dc999d4a24dd7244dd6d5670b1be4c89f1de67836ab5a562ae0",
-    "bytes": 12686365,
-    "faststart": true
-  },
-  {
-    "file": "GIF2.mp4",
-    "media_data_unchanged": true,
-    "media_data_sha256": "0d368ac112e4f2e8651a0b5b4766f2c40015f76cf7694a85521e91f56fe473bf",
-    "bytes": 17773236,
-    "faststart": true
-  },
-  {
-    "file": "GIF3.mp4",
-    "media_data_unchanged": true,
-    "media_data_sha256": "e8351231acfd88e649f5027744ffce3ddda3b6fe3fb198aeca11da3a8b302844",
-    "bytes": 7885517,
-    "faststart": true
-  },
-  {
-    "file": "GIF4.mp4",
-    "media_data_unchanged": true,
-    "media_data_sha256": "a93a45f864104c0b58be958ea45650c888e6d922800a65dec464f03489aef377",
-    "bytes": 36122862,
-    "faststart": true
+{
+  "note": "Web optimized H.264 copies; original videos retained separately.",
+  "sha256": {
+    "GIF1.mp4": "422340214ccf656395c651836b7cb97f5e78ce562db8509aab1af41e8ccb7bd8",
+    "GIF2.mp4": "7ada91f3d3ba853b013832e4c4b06dec5f209cf239512ab2eee063e4a92ce28f",
+    "GIF3.mp4": "343cce9aa8e368cb12cd6276b53cda15a32b6323c6bd7965eb0f49d11206c5f1",
+    "GIF4.mp4": "e7bb37b038c5790c9117b89f41bf5efe761d08fec91113f28cfcd8b3acc555a7"
   }
-]
+}

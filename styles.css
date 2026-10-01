@@ -69,3 +69,5 @@
  .revive-object{padding:0}
  .revive-right .revive-details{grid-column:1 / 3;grid-row:2;height:100%}
 }
+
+img,video{-webkit-user-drag:none;-webkit-touch-callout:none;user-select:none;-webkit-user-select:none}

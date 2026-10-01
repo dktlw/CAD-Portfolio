@@ -1,0 +1,30 @@
+[
+  {
+    "file": "GIF1.mp4",
+    "media_data_unchanged": true,
+    "media_data_sha256": "bcce33429d023dc999d4a24dd7244dd6d5670b1be4c89f1de67836ab5a562ae0",
+    "bytes": 12686365,
+    "faststart": true
+  },
+  {
+    "file": "GIF2.mp4",
+    "media_data_unchanged": true,
+    "media_data_sha256": "0d368ac112e4f2e8651a0b5b4766f2c40015f76cf7694a85521e91f56fe473bf",
+    "bytes": 17773236,
+    "faststart": true
+  },
+  {
+    "file": "GIF3.mp4",
+    "media_data_unchanged": true,
+    "media_data_sha256": "e8351231acfd88e649f5027744ffce3ddda3b6fe3fb198aeca11da3a8b302844",
+    "bytes": 7885517,
+    "faststart": true
+  },
+  {
+    "file": "GIF4.mp4",
+    "media_data_unchanged": true,
+    "media_data_sha256": "a93a45f864104c0b58be958ea45650c888e6d922800a65dec464f03489aef377",
+    "bytes": 36122862,
+    "faststart": true
+  }
+]

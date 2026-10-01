@@ -1,0 +1,23 @@
+window.PORTFOLIO_CAPTIONS = {
+  "other-1": "Christmas tree ornament with a storage compartment",
+  "other-2": "Wireless charger adapter for a monitor arm, with integrated cable routing",
+  "other-3": "Wall-mounted catio providing a safe outdoor space for a cat",
+  "other-4": "Board game prop",
+  "other-5": "Headphone design",
+  "other-6": "Desk planner",
+  "other-7": "Custom hinge",
+  "other-8": "Car CD-slot mount",
+  "other-9": "3D printer belt tensioner",
+  "other-10": "3D printer enclosure",
+  "reverse-1": "Blower impeller",
+  "reverse-2": "Aquarium filter fixture",
+  "reverse-3": "Hose connector",
+  "reverse-4": "Wheel cap covers",
+  "reverse-5": "Camera mount",
+  "reverse-6": "RC car battery bracket",
+  "reverse-7": "Cable clip",
+  "reverse-8": "Car door blocking button",
+  "reverse-9": "Frame fixture",
+  "reverse-10": "Roller blind wall mount",
+  "reverse-11": "Handheld sander"
+};
